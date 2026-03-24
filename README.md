@@ -257,6 +257,55 @@ Contributions are welcome:
 - Security review
 - Standardization proposal
 
+### 💛 Support the Project
+
+You can support the project through a contribution here:  
+👉 https://checkout.revolut.com/pay/0cd721ad-4858-44d7-860e-66444cf3dfc9
+
+All contributions help improve the protocol, documentation, and real-world adoption.
+
+---
+
+### 🤝 Professional Collaboration
+
+I am available for professional collaboration around this protocol, including:
+
+- Integration into existing systems (APIs, web platforms, payment flows, etc.)
+- Security review and implementation guidance
+- Custom adaptations for specific business needs
+- Demonstrations and technical workshops
+- Advanced implementations tailored to real-world use cases
+
+The goal is always to **preserve the integrity of the protocol** and keep it open, interoperable, and aligned with its purpose:  
+**improving security on the web without making it proprietary.**
+
+---
+
+### 🚀 For Companies & Serious Inquiries
+
+If you are a company, organization, or investor interested in:
+
+- exploring adoption,
+- building solutions on top of the protocol,
+- or supporting its development in a meaningful way,
+
+you are welcome to get in touch.
+
+Serious inquiries are encouraged to include clear intentions and context to ensure productive collaboration.
+
+---
+
+### 🌍 Open by Design
+
+This protocol is designed to remain open and extensible.  
+While commercial solutions can be built on top of it, the core protocol will always remain:
+
+- open
+- transparent
+- non-proprietary
+
+This is essential to ensure broad adoption and long-term impact.
+
 ---
 
 ## License
