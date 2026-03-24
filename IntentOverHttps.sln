@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntentOverHttps.Core", "IntentOverHttps.Core\IntentOverHttps.Core.csproj", "{185CE0EC-3DF6-45DB-93A7-2166C30DCBE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntentOverHttps.AspNetCore", "IntentOverHttps.AspNetCore\IntentOverHttps.AspNetCore.csproj", "{A3982FD9-DE6D-42A7-A628-BFBBB254E794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntentOverHttps.Cli", "IntentOverHttps.Cli\IntentOverHttps.Cli.csproj", "{C23DF6CD-47DA-4802-BA38-2836BB23D17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntentOverHttps.DemoWeb", "IntentOverHttps.DemoWeb\IntentOverHttps.DemoWeb.csproj", "{01B9183B-D543-4432-8ACF-E6CB49812CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntentOverHttps.Tests", "IntentOverHttps.Tests\IntentOverHttps.Tests.csproj", "{FF841DA8-3691-4F63-B3C2-E56ECB1D9F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185CE0EC-3DF6-45DB-93A7-2166C30DCBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185CE0EC-3DF6-45DB-93A7-2166C30DCBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185CE0EC-3DF6-45DB-93A7-2166C30DCBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185CE0EC-3DF6-45DB-93A7-2166C30DCBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3982FD9-DE6D-42A7-A628-BFBBB254E794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3982FD9-DE6D-42A7-A628-BFBBB254E794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3982FD9-DE6D-42A7-A628-BFBBB254E794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3982FD9-DE6D-42A7-A628-BFBBB254E794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23DF6CD-47DA-4802-BA38-2836BB23D17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23DF6CD-47DA-4802-BA38-2836BB23D17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23DF6CD-47DA-4802-BA38-2836BB23D17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23DF6CD-47DA-4802-BA38-2836BB23D17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B9183B-D543-4432-8ACF-E6CB49812CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B9183B-D543-4432-8ACF-E6CB49812CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B9183B-D543-4432-8ACF-E6CB49812CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B9183B-D543-4432-8ACF-E6CB49812CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF841DA8-3691-4F63-B3C2-E56ECB1D9F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF841DA8-3691-4F63-B3C2-E56ECB1D9F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF841DA8-3691-4F63-B3C2-E56ECB1D9F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF841DA8-3691-4F63-B3C2-E56ECB1D9F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
