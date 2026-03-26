@@ -1,1 +1,26 @@
+# Fichiers personnels exclus du dépôt
 guide_only_for_me.txt
+
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+
+# Rider / JetBrains IDE
+.idea/
+
+# Visual Studio
+.vs/
+*.rsuser
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
